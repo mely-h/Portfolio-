@@ -1,0 +1,78 @@
+.sec1{
+   background-image:url(dataviz\ Weather\ Eindhoven\ 2014.jpg);  
+   height: 150vh; 
+   width : 100%;
+   background-repeat: no-repeat;
+
+} 
+
+
+.ul1{
+    display: flex; 
+    list-style: none ; 
+    gap:20px;  
+    padding-left: 80%; 
+    color: azure;
+    
+} 
+.ul2{
+    display: flex ;
+    list-style: none; 
+    gap: 20px;  
+    padding-top: 0%; 
+    transition: all 5s; 
+    width: 100%;
+    animation-duration: 0,5s; 
+    color: azure; 
+
+}   
+.ul2 h1{
+    width: 120%;
+    transition: all 4s ;
+}
+
+.M  {
+    transition: 3,5s !important;
+} 
+.E{ 
+    transition: 4s !important;
+} 
+.L{
+    transition: 4,5s !important;
+} 
+.I {
+    transition: 5s !important;
+} 
+.S {
+    transition: 5,5s !important;
+} 
+.ss{
+    transition: 6s !important;
+} 
+.A{ 
+    transition: 6,5s !important;
+} 
+.h{
+    transition: 3,5s!important;
+} 
+.a{
+    transition: 4s!important;
+} 
+.n{
+    transition: 4,5s !important;
+} 
+.o  {
+    transition: 5s !important;
+} 
+.u{ 
+    transition: 5,5s !important;
+} 
+.t{
+    transition: 6s !important;
+} 
+.i{
+    transition: 6,5s !important;
+} 
+
+
+
